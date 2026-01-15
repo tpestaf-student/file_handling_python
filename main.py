@@ -64,5 +64,8 @@ with open("first.txt","a") as file9:
     file9.write("bismil by mehar\n")
     file9.write("kahaf by  Raabia khan\n")
     file9.write('dairy by aasma rehman\n')
+    file9.write('dairy by aasma rehman\n')
+    file9.write('dairy by aasma rehman\n')
     
     
+
